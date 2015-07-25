@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+
 describe '#reformat_languages' do
 
   let(:languages_by_style) {
